@@ -1,0 +1,34 @@
+*{
+    margin: 10;
+    padding: 20;
+    text-align: center;
+}
+
+.head h1 {
+    color: white;
+    font-family: 'Nexa', Montserrat, sans-serif;
+    font-size: xx-large;
+}
+
+p {
+    color: whitesmoke;
+    font-family: 'Nexa', Montserrat, sans-serif;
+    font-size: large;
+}
+
+h4 {
+    color: whitesmoke;
+    font-family: 'Nexa', Montserrat, sans-serif;
+    font-size: medium;
+}
+
+.list1 ul {
+    color: whitesmoke;
+    font-family: 'Nexa', Montserrat, sans-serif;
+    font-size: small
+}
+
+.img1 img {
+    border-radius: 50%;
+}
+
