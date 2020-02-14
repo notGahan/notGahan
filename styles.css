@@ -1,7 +1,12 @@
-*{
+* {
     margin: 10;
     padding: 20;
+    
+}
+.head {
     text-align: center;
+    margin: auto;
+    width: 400px;
 }
 
 .head h1 {
@@ -21,11 +26,15 @@ h4 {
     font-family: 'Nexa', Montserrat, sans-serif;
     font-size: medium;
 }
-
+.list1 {
+    padding-left: 50px;
+    width: 180px;
+    text-align: left;
+}
 .list1 ul {
     color: whitesmoke;
     font-family: 'Nexa', Montserrat, sans-serif;
-    font-size: small
+    font-size: small;
 }
 
 .img1 img {
