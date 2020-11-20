@@ -300,12 +300,20 @@ body {
     height: 3.5vh;
 }
 
-.phone p {
+.phone a {
     color: #D1D1D1;
-    padding-left: 6vw;
+    padding-left: 6.5vw;
     font-size: 16px;
     letter-spacing: 0.15rem;
-}
+     text-decoration: none;
+     transition: 400ms;
+ }
+
+ .phone a:hover {
+     text-decoration: underline;
+     color: #C2A65C;
+     letter-spacing: 0.3rem;
+ }
 
 .mail {
     display: flex;
@@ -318,11 +326,19 @@ body {
     height: 3.5vh;
  }
  
- .mail p {
-     color: #D1D1D1;
-     padding-left: 6vw;
-     font-size: 16px;
-     letter-spacing: 0.15rem;
+ .mail a {
+    color: #D1D1D1;
+    padding-left: 6.5vw;
+    font-size: 16px;
+    letter-spacing: 0.15rem;
+     text-decoration: none;
+     transition: 400ms;
+ }
+
+ .mail a:hover {
+     text-decoration: underline;
+     color: #C2A65C;
+     letter-spacing: 0.3rem;
  }
 
  .insta {
@@ -336,11 +352,19 @@ body {
     height: 3.5vh;
  }
  
- .insta p {
-     color: #D1D1D1;
-     padding-left: 6.5vw;
-     font-size: 16px;
-     letter-spacing: 0.15rem;
+ .insta a {
+    color: #D1D1D1;
+    padding-left: 6.5vw;
+    font-size: 16px;
+    letter-spacing: 0.15rem;
+     text-decoration: none;
+     transition: 400ms;
+ }
+
+ .insta a:hover {
+     text-decoration: underline;
+     color: #C2A65C;
+     letter-spacing: 0.3rem;
  }
 
  .linkedin {
@@ -354,11 +378,20 @@ body {
      height: 3.5vh;
  }
  
- .linkedin p {
-     color: #D1D1D1;
-     padding-left: 6.5vw;
-     font-size: 16px;
-     letter-spacing: 0.15rem;
+
+ .linkedin a {
+    color: #D1D1D1;
+    padding-left: 6.5vw;
+    font-size: 16px;
+    letter-spacing: 0.15rem;
+     text-decoration: none;
+     transition: 400ms;
+ }
+
+ .linkedin a:hover {
+     text-decoration: underline;
+     color: #C2A65C;
+     letter-spacing: 0.3rem;
  }
 
  .footer {
